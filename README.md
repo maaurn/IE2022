@@ -1,4 +1,4 @@
-# IE2022
+# Mi pagina UwU
 
 Modalidad de este curso
 El ramo de Imagen Escrita trata tema iniciales del diseño para pantallas, o diseño computacional con un énfasis espacial (este año) en temas Web.
